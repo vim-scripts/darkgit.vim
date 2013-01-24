@@ -78,8 +78,8 @@ hi Number		guifg=#1C9898
 hi Todo			guifg=#FFFFFF guibg=#990000 gui=none
 hi Special		guifg=#159828 gui=none
 hi rubySymbol   guifg=#960B73
-hi Error        guibg=#f8f8ff guifg=#ff1100 gui=undercurl
-hi Todo         guibg=#f8f8ff guifg=#ff1100 gui=underline
+hi Error        guibg=#181811 guifg=#ff1100 gui=underline
+hi Todo         guibg=#181811 guifg=#ff1100 gui=underline
 hi Label        guifg=#ffffff gui=none
 hi StorageClass guifg=#ffffff gui=none
 hi Structure    guifg=#ffffff gui=none
